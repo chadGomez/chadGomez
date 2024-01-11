@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="300" />
+</div>
 
-<!--
-**chadGomez/chadGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋 I'm Chad</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ... becoming a Web Developer
+- 🌱 I’m currently learning ... advanced JavaScript concepts
+- 👯 I’m looking to collaborate on ... any programming projects
+- 🤔 I’m looking for help with ... finding job opportunities in Web Development
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - Email: chadegomez@yahoo.com
+    - LinkedIn: https://www.linkedin.com/in/chad-gomez-643345120/
+- ⚡ Fun fact: ... I can play the first movement of Moonlight Sonata on piano!
+
+<img src="https://komarev.com/ghpvc/?username=chadGomez&style=flat-square&color=blue" alt="" align="center" />
