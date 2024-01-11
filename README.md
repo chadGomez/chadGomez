@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning ... advanced JavaScript concepts
 - 👯 I’m looking to collaborate on ... any programming projects
 - 🤔 I’m looking for help with ... finding job opportunities in Web Development
-- 📫 How to reach me: ...
+- 📫 How to reach me:
     - Email: chadegomez@yahoo.com
     - LinkedIn: https://www.linkedin.com/in/chad-gomez-643345120/
-- ⚡ Fun fact: ... I can play the first movement of Moonlight Sonata on piano!
+- ⚡ Fun fact ... I can play the first movement of Moonlight Sonata on piano!
 
 <img src="https://komarev.com/ghpvc/?username=chadGomez&style=flat-square&color=blue" alt="" align="center" />
