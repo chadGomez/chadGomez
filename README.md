@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋 I'm Chad</h1>
 
 - 🔭 I’m currently working on ... becoming a Web Developer
-- 🌱 I’m currently learning ... advanced JavaScript concepts
+- 🌱 I’m currently learning ... JavaScript
 - 👯 I’m looking to collaborate on ... any programming projects
 - 🤔 I’m looking for help with ... finding job opportunities in Web Development
 - 📫 How to reach me:
